@@ -6,6 +6,6 @@ A pirate's life among the saltwinds is fraught with danger.
 *Initially created as a capstone project for Lake Superior College's CIS Capstone course.
 
 ***PLATFORM:*** Windows   
-***ENGINE:*** Unity
+***ENGINE:*** Unity  
 ***SCRIPTING LANGUAGE:*** C#
 
