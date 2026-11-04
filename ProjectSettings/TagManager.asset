@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - CanBePickedUp
+  - VirtualCamera
+  - Merchant
+  - Audio
+  - Map
+  - PlayerSpawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Consumables
+  - Enemies
+  - PlayerAmmo
+  - EnemyAmmo
+  - MapBoundary
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1297583639
+    locked: 0
+  - name: Water
+    uniqueID: 3483314507
+    locked: 0
+  - name: Objects
+    uniqueID: 3287650255
+    locked: 0
+  - name: Characters
+    uniqueID: 4127255453
+    locked: 0
+  - name: Trees
+    uniqueID: 4205767203
+    locked: 0
